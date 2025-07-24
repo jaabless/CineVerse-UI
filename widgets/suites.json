@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"d22bc4a4f0f46aee24a1c5c747a2b960","name":"com.example.cineverse.tests.UserRegistrationTests","statistic":{"failed":0,"broken":4,"skipped":0,"passed":1,"unknown":0,"total":5}},{"uid":"bd689555df3066a6fd77ec0a27f2b795","name":"com.example.cineverse.tests.UserLoginTests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
