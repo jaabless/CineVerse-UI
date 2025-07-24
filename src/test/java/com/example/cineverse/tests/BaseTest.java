@@ -1,7 +1,6 @@
 package com.example.cineverse.tests;
 
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.example.cineverse.pages.HomePage;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
