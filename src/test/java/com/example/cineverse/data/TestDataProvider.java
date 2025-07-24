@@ -3,7 +3,6 @@ package com.example.cineverse.data;
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.ArgumentsProvider;
-
 import java.util.UUID;
 import java.util.stream.Stream;
 
